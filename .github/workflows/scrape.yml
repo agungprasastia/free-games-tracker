@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Full history for rebase
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -53,6 +55,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🎮 Update free games data — $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin "$GITHUB_REF_NAME"
             git push
           fi
 
