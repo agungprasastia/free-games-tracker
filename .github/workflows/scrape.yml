@@ -1,0 +1,46 @@
+name: Scrape Free Games
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC (09:00 WIB)
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+          cache: true
+
+      - name: Build
+        run: go build -o free-games-tracker .
+
+      - name: Run scraper
+        run: |
+          ./free-games-tracker \
+            -data-dir ./data \
+            -generate-readme \
+            -readme-path ./README.md
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🎮 Update free games data — $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
