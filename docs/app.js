@@ -10,6 +10,9 @@ let history = [];
 let activeFilter = 'all';
 let searchQuery = '';
 let sortBy = 'newest';
+let activeTab = 'browse';
+let chartsInitialized = false;
+let chartInstances = {};
 
 // ── Data Fetching ──────────────────────────────────────────────
 
@@ -336,6 +339,359 @@ function renderGrids() {
   refreshIcons();
 }
 
+// ── Tab Switching ──────────────────────────────────────────────
+
+function initTabs() {
+  document.getElementById('tab-browse').addEventListener('click', () => switchTab('browse'));
+  document.getElementById('tab-analytics').addEventListener('click', () => switchTab('analytics'));
+}
+
+function switchTab(tab) {
+  activeTab = tab;
+  document.getElementById('tab-browse').classList.toggle('active', tab === 'browse');
+  document.getElementById('tab-analytics').classList.toggle('active', tab === 'analytics');
+  document.getElementById('browse-content').classList.toggle('hidden', tab !== 'browse');
+  document.getElementById('analytics-content').classList.toggle('hidden', tab !== 'analytics');
+  if (tab === 'analytics' && !chartsInitialized) {
+    renderAnalytics();
+    chartsInitialized = true;
+  }
+}
+
+// ── Analytics Charts ───────────────────────────────────────────
+
+function getChartColors() {
+  const isDark = document.documentElement.classList.contains('dark');
+  return {
+    text: isDark ? '#9ca3af' : '#6b7280',
+    grid: isDark ? 'rgba(255,255,255,0.05)' : 'rgba(0,0,0,0.05)',
+    purple: '#7c3aed',
+    blue: '#2563eb',
+    green: '#10b981',
+    red: '#ef4444',
+    orange: '#f59e0b',
+  };
+}
+
+function renderAnalytics() {
+  renderPlatformChart();
+  renderDiscountChart();
+  renderTrendChart();
+  renderTopDealsChart();
+  renderExpiryTimeline();
+}
+
+function destroyChart(key) {
+  if (chartInstances[key]) {
+    chartInstances[key].destroy();
+    delete chartInstances[key];
+  }
+}
+
+function renderPlatformChart() {
+  destroyChart('platform');
+  const ctx = document.getElementById('platform-chart');
+  if (!ctx) return;
+  const colors = getChartColors();
+
+  const counts = {};
+  [...allGames, ...allDeals].forEach((item) => {
+    counts[item.platform] = (counts[item.platform] || 0) + 1;
+  });
+
+  const labels = Object.keys(counts);
+  const data = Object.values(counts);
+  const bgColors = labels.map((l) =>
+    l === 'Epic Games' ? colors.purple : colors.blue
+  );
+
+  chartInstances.platform = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels,
+      datasets: [{
+        data,
+        backgroundColor: bgColors,
+        borderColor: 'transparent',
+        borderWidth: 0,
+        hoverOffset: 8,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: { color: colors.text, font: { size: 12, weight: '600' }, padding: 16 },
+        },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => ` ${ctx.label}: ${ctx.parsed} game(s)`,
+          },
+        },
+      },
+    },
+  });
+}
+
+function renderDiscountChart() {
+  destroyChart('discount');
+  const ctx = document.getElementById('discount-chart');
+  if (!ctx) return;
+  const colors = getChartColors();
+
+  const platformDiscounts = {};
+  allDeals.forEach((d) => {
+    if (!platformDiscounts[d.platform]) platformDiscounts[d.platform] = [];
+    platformDiscounts[d.platform].push(d.discount_percent || 0);
+  });
+
+  const labels = Object.keys(platformDiscounts);
+  const avgDiscounts = labels.map((p) => {
+    const arr = platformDiscounts[p];
+    return Math.round(arr.reduce((a, b) => a + b, 0) / arr.length);
+  });
+  const bgColors = labels.map((l) =>
+    l === 'Epic Games' ? colors.purple : colors.blue
+  );
+
+  chartInstances.discount = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Avg Discount %',
+        data: avgDiscounts,
+        backgroundColor: bgColors,
+        borderRadius: 8,
+        barThickness: 60,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: { label: (ctx) => ` ${ctx.parsed.y}% average discount` },
+        },
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          max: 100,
+          ticks: { color: colors.text, callback: (v) => v + '%' },
+          grid: { color: colors.grid },
+        },
+        x: {
+          ticks: { color: colors.text, font: { weight: '600' } },
+          grid: { display: false },
+        },
+      },
+    },
+  });
+}
+
+function renderTrendChart() {
+  destroyChart('trend');
+  const ctx = document.getElementById('trend-chart');
+  if (!ctx) return;
+  const colors = getChartColors();
+
+  // Group history by date and count cumulative unique games
+  const byDate = {};
+  const seen = new Set();
+  const sorted = [...history].sort((a, b) =>
+    new Date(a.scraped_at) - new Date(b.scraped_at)
+  );
+
+  sorted.forEach((g) => {
+    const date = new Date(g.scraped_at).toLocaleDateString('en-US', {
+      month: 'short', day: 'numeric', timeZone: 'UTC',
+    });
+    seen.add(g.title);
+    byDate[date] = seen.size;
+  });
+
+  const labels = Object.keys(byDate);
+  const data = Object.values(byDate);
+
+  if (labels.length === 0) {
+    ctx.parentElement.innerHTML = '<p class="text-center text-gray-400 py-8">No history data yet. Charts will populate as the scraper runs daily.</p>';
+    return;
+  }
+
+  chartInstances.trend = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Games Tracked',
+        data,
+        borderColor: colors.green,
+        backgroundColor: colors.green + '20',
+        fill: true,
+        tension: 0.4,
+        pointRadius: 4,
+        pointHoverRadius: 7,
+        pointBackgroundColor: colors.green,
+        borderWidth: 3,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: { label: (ctx) => ` ${ctx.parsed.y} games tracked` },
+        },
+      },
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: { color: colors.text, precision: 0 },
+          grid: { color: colors.grid },
+        },
+        x: {
+          ticks: { color: colors.text },
+          grid: { display: false },
+        },
+      },
+    },
+  });
+}
+
+function renderTopDealsChart() {
+  destroyChart('topDeals');
+  const ctx = document.getElementById('top-deals-chart');
+  if (!ctx) return;
+  const colors = getChartColors();
+
+  const top = [...allDeals]
+    .sort((a, b) => b.discount_percent - a.discount_percent)
+    .slice(0, 10);
+
+  if (top.length === 0) {
+    ctx.parentElement.innerHTML = '<p class="text-center text-gray-400 py-8">No deals available right now.</p>';
+    return;
+  }
+
+  const labels = top.map((d) => d.title.length > 25 ? d.title.slice(0, 22) + '…' : d.title);
+  const data = top.map((d) => d.discount_percent);
+  const savings = top.map((d) => {
+    const orig = parseIDRPrice(d.original_price);
+    const disc = parseIDRPrice(d.discounted_price);
+    return orig - disc;
+  });
+
+  chartInstances.topDeals = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Discount %',
+        data,
+        backgroundColor: data.map((v) =>
+          v >= 80 ? colors.green : v >= 60 ? colors.blue : v >= 50 ? colors.orange : colors.red
+        ),
+        borderRadius: 6,
+      }],
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: (ctx) => {
+              const save = savings[ctx.dataIndex];
+              return [` ${ctx.parsed.x}% discount`, ` Save IDR ${formatIDR(save)}`];
+            },
+          },
+        },
+      },
+      scales: {
+        x: {
+          beginAtZero: true,
+          max: 100,
+          ticks: { color: colors.text, callback: (v) => v + '%' },
+          grid: { color: colors.grid },
+        },
+        y: {
+          ticks: { color: colors.text, font: { size: 11 } },
+          grid: { display: false },
+        },
+      },
+    },
+  });
+}
+
+function renderExpiryTimeline() {
+  const container = document.getElementById('expiry-timeline');
+  if (!container) return;
+
+  if (allGames.length === 0) {
+    container.innerHTML = '<p class="text-center text-gray-400 py-8">No active free games to track.</p>';
+    return;
+  }
+
+  const now = Date.now();
+  const html = allGames.map((game) => {
+    const start = new Date(game.start_date).getTime();
+    const end = new Date(game.end_date).getTime();
+    const total = end - start;
+    const elapsed = now - start;
+    const pct = Math.max(0, Math.min(100, (elapsed / total) * 100));
+    const remaining = end - now;
+
+    let barColor, statusText, statusIcon;
+    if (remaining <= 0) {
+      barColor = 'bg-accent-red';
+      statusText = 'Expired';
+      statusIcon = 'x-circle';
+    } else if (remaining < 86400000) {
+      barColor = 'bg-accent-red';
+      statusText = getCountdown(game.end_date).text;
+      statusIcon = 'alert-circle';
+    } else if (remaining < 172800000) {
+      barColor = 'bg-accent-orange';
+      statusText = getCountdown(game.end_date).text;
+      statusIcon = 'clock';
+    } else {
+      barColor = 'bg-accent-green';
+      statusText = getCountdown(game.end_date).text;
+      statusIcon = 'check-circle';
+    }
+
+    const platformClass = game.platform === 'Epic Games' ? 'text-accent-purple' : 'text-accent-blue';
+
+    return `
+      <div class="timeline-item">
+        <div class="flex items-center justify-between mb-1.5">
+          <div class="flex items-center gap-2 min-w-0">
+            <i data-lucide="${statusIcon}" class="w-4 h-4 ${barColor.replace('bg-', 'text-')} flex-shrink-0"></i>
+            <span class="text-sm font-semibold truncate">${escapeHtml(game.title)}</span>
+          </div>
+          <span class="text-xs font-bold ${barColor.replace('bg-', 'text-')} flex-shrink-0 ml-2">${statusText}</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-xs ${platformClass} font-medium flex-shrink-0">${game.platform}</span>
+          <div class="flex-1 h-2 rounded-full bg-gray-200 dark:bg-white/10 overflow-hidden">
+            <div class="h-full ${barColor} rounded-full transition-all duration-500" style="width: ${pct}%"></div>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  container.innerHTML = html;
+  refreshIcons();
+}
+
 // ── Filter & Search Setup ──────────────────────────────────────
 
 function initFilters() {
@@ -423,6 +779,7 @@ function setLastUpdated() {
 
 async function init() {
   initTheme();
+  initTabs();
   initFilters();
   refreshIcons(); // Render static HTML icons
 

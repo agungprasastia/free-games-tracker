@@ -22,6 +22,7 @@
               blue: '#2563eb',
               green: '#10b981',
               red: '#ef4444',
+              orange: '#f59e0b',
             },
           },
           animation: {
@@ -41,6 +42,9 @@
 
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 
   <!-- Custom styles -->
   <link rel="stylesheet" href="style.css">
@@ -121,6 +125,21 @@
       <!-- Filled by JS -->
     </section>
 
+    <!-- ── Tab Navigation ──────────────────────────────────── -->
+    <div class="flex items-center gap-2 mb-8">
+      <button id="tab-browse" class="tab-btn active px-5 py-2.5 rounded-xl text-sm font-semibold transition-all flex items-center gap-2">
+        <i data-lucide="layout-grid" class="w-4 h-4"></i>
+        Browse
+      </button>
+      <button id="tab-analytics" class="tab-btn px-5 py-2.5 rounded-xl text-sm font-semibold transition-all flex items-center gap-2">
+        <i data-lucide="bar-chart-3" class="w-4 h-4"></i>
+        Analytics
+      </button>
+    </div>
+
+    <!-- ══ BROWSE TAB ════════════════════════════════════════ -->
+    <div id="browse-content">
+
     <!-- ── Filter Bar ────────────────────────────────────────── -->
     <section class="sticky top-16 z-40 backdrop-blur-xl bg-white/50 dark:bg-[#0a0a0f]/50 rounded-2xl border border-gray-200/50 dark:border-white/5 p-4 mb-8">
       <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
@@ -198,6 +217,68 @@
       <h3 class="text-xl font-bold mb-2">No games found</h3>
       <p class="text-gray-500 dark:text-gray-400">Try changing your filters or check back later!</p>
     </div>
+
+    </div><!-- /browse-content -->
+
+    <!-- ══ ANALYTICS TAB ═════════════════════════════════════ -->
+    <div id="analytics-content" class="hidden">
+
+      <!-- Row 1: Platform Distribution + Discount Comparison -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+        <div class="chart-card rounded-2xl p-6">
+          <div class="flex items-center gap-2 mb-4">
+            <i data-lucide="pie-chart" class="w-5 h-5 text-accent-purple"></i>
+            <h3 class="text-lg font-bold">Platform Distribution</h3>
+          </div>
+          <div class="relative h-64">
+            <canvas id="platform-chart"></canvas>
+          </div>
+        </div>
+        <div class="chart-card rounded-2xl p-6">
+          <div class="flex items-center gap-2 mb-4">
+            <i data-lucide="percent" class="w-5 h-5 text-accent-blue"></i>
+            <h3 class="text-lg font-bold">Avg Discount by Platform</h3>
+          </div>
+          <div class="relative h-64">
+            <canvas id="discount-chart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- Row 2: Games Tracked Over Time -->
+      <div class="chart-card rounded-2xl p-6 mb-6">
+        <div class="flex items-center gap-2 mb-4">
+          <i data-lucide="trending-up" class="w-5 h-5 text-accent-green"></i>
+          <h3 class="text-lg font-bold">Games Tracked Over Time</h3>
+        </div>
+        <div class="relative h-72">
+          <canvas id="trend-chart"></canvas>
+        </div>
+      </div>
+
+      <!-- Row 3: Top 10 Deals + Expiry Timeline -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <div class="chart-card rounded-2xl p-6">
+          <div class="flex items-center gap-2 mb-4">
+            <i data-lucide="trophy" class="w-5 h-5 text-accent-red"></i>
+            <h3 class="text-lg font-bold">Top 10 Best Deals</h3>
+          </div>
+          <div class="relative h-80">
+            <canvas id="top-deals-chart"></canvas>
+          </div>
+        </div>
+        <div class="chart-card rounded-2xl p-6">
+          <div class="flex items-center gap-2 mb-4">
+            <i data-lucide="calendar-clock" class="w-5 h-5 text-accent-purple"></i>
+            <h3 class="text-lg font-bold">Expiry Timeline</h3>
+          </div>
+          <div id="expiry-timeline" class="space-y-3 max-h-80 overflow-y-auto pr-2">
+            <!-- Filled by JS -->
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /analytics-content -->
 
   </main>
 
