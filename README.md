@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-21 01:24 UTC_
+_Last updated: 2026-06-21 06:50 UTC_
 
 > 📊 **2** games tracked · **IDR 246,998** total value saved · Epic Games: 2
 
@@ -19,10 +19,10 @@ _Last updated: 2026-06-21 01:24 UTC_
 |------|----------|----------|------------|------|
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | The Witcher 3: Wild Hunt - Complete Edition | **-80%** | ~~IDR 449,000~~ | **IDR 89,800** | [View](https://store.steampowered.com/app/124923/) |
-| FINAL FANTASY VII REBIRTH | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/2909400/) |
+| It Takes Two | **-70%** | ~~IDR 479,000~~ | **IDR 143,700** | [View](https://store.steampowered.com/app/1426210/) |
 | Dead by Daylight | **-60%** | ~~IDR 219,890~~ | **IDR 87,956** | [View](https://store.steampowered.com/app/381210/) |
+| FINAL FANTASY VII REBIRTH | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/2909400/) |
 | Dead Space | **-90%** | ~~IDR 659,000~~ | **IDR 65,900** | [View](https://store.steampowered.com/app/1693980/) |
-| DayZ | **-55%** | ~~IDR 649,999~~ | **IDR 292,499** | [View](https://store.steampowered.com/app/221100/) |
 
 ## 📦 Data
 

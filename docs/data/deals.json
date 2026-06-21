@@ -7,7 +7,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-06-21T01:24:23Z"
+    "scraped_at": "2026-06-21T06:50:55Z"
   },
   {
     "title": "The Witcher 3: Wild Hunt - Complete Edition",
@@ -17,17 +17,17 @@
     "discount_percent": 80,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/38e6905e6bd8395f9ae4d37c688335c7d1c93294/header_ratio.jpg?t=1775042338",
     "url": "https://store.steampowered.com/app/124923/",
-    "scraped_at": "2026-06-21T01:24:23Z"
+    "scraped_at": "2026-06-21T06:50:55Z"
   },
   {
-    "title": "FINAL FANTASY VII REBIRTH",
+    "title": "It Takes Two",
     "platform": "Steam",
-    "original_price": "IDR 729,000",
-    "discounted_price": "IDR 291,600",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
-    "url": "https://store.steampowered.com/app/2909400/",
-    "scraped_at": "2026-06-21T01:24:23Z"
+    "original_price": "IDR 479,000",
+    "discounted_price": "IDR 143,700",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+    "url": "https://store.steampowered.com/app/1426210/",
+    "scraped_at": "2026-06-21T06:50:55Z"
   },
   {
     "title": "Dead by Daylight",
@@ -37,7 +37,17 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781795618",
     "url": "https://store.steampowered.com/app/381210/",
-    "scraped_at": "2026-06-21T01:24:23Z"
+    "scraped_at": "2026-06-21T06:50:55Z"
+  },
+  {
+    "title": "FINAL FANTASY VII REBIRTH",
+    "platform": "Steam",
+    "original_price": "IDR 729,000",
+    "discounted_price": "IDR 291,600",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
+    "url": "https://store.steampowered.com/app/2909400/",
+    "scraped_at": "2026-06-21T06:50:55Z"
   },
   {
     "title": "Dead Space",
@@ -47,16 +57,6 @@
     "discount_percent": 90,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
     "url": "https://store.steampowered.com/app/1693980/",
-    "scraped_at": "2026-06-21T01:24:23Z"
-  },
-  {
-    "title": "DayZ",
-    "platform": "Steam",
-    "original_price": "IDR 649,999",
-    "discounted_price": "IDR 292,499",
-    "discount_percent": 55,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513",
-    "url": "https://store.steampowered.com/app/221100/",
-    "scraped_at": "2026-06-21T01:24:23Z"
+    "scraped_at": "2026-06-21T06:50:55Z"
   }
 ]
