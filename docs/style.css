@@ -1,0 +1,191 @@
+/* ═══════════════════════════════════════════════════════════════
+   Free Games Tracker — Custom Styles
+   Complements Tailwind CSS with animations and effects
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── Custom Scrollbar ─────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.3);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(124, 58, 237, 0.5);
+}
+
+/* ── Keyframe Animations ──────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(124, 58, 237, 0.3); }
+  50%      { box-shadow: 0 0 40px rgba(124, 58, 237, 0.5); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-6px); }
+}
+
+/* ── Filter Button States ─────────────────────────────────────── */
+.filter-btn {
+  color: rgb(107, 114, 128); /* gray-500 */
+}
+.dark .filter-btn {
+  color: rgb(156, 163, 175); /* gray-400 */
+}
+.filter-btn:hover {
+  color: rgb(124, 58, 237); /* accent-purple */
+}
+.dark .filter-btn:hover {
+  color: rgb(167, 139, 250);
+}
+.filter-btn.active {
+  background: white;
+  color: rgb(124, 58, 237);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+.dark .filter-btn.active {
+  background: rgba(124, 58, 237, 0.15);
+  color: rgb(167, 139, 250);
+  box-shadow: 0 0 12px rgba(124, 58, 237, 0.2);
+}
+
+/* ── Game Card ────────────────────────────────────────────────── */
+.game-card {
+  background: white;
+  border: 1px solid rgb(229, 231, 235); /* gray-200 */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+}
+.dark .game-card {
+  background: rgb(22, 22, 29); /* #16161d */
+  border-color: rgba(255, 255, 255, 0.06);
+}
+.game-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(124, 58, 237, 0.4);
+  box-shadow:
+    0 20px 40px -12px rgba(0, 0, 0, 0.15),
+    0 0 30px -5px rgba(124, 58, 237, 0.2);
+}
+.dark .game-card:hover {
+  border-color: rgba(124, 58, 237, 0.5);
+  box-shadow:
+    0 20px 40px -12px rgba(0, 0, 0, 0.5),
+    0 0 30px -5px rgba(124, 58, 237, 0.3);
+}
+
+/* Card thumbnail hover zoom */
+.game-card .card-thumb {
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.game-card:hover .card-thumb {
+  transform: scale(1.08);
+}
+
+/* ── Platform Badges ──────────────────────────────────────────── */
+.badge-epic {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: white;
+}
+.badge-steam {
+  background: linear-gradient(135deg, #1b2838, #2a475e);
+  color: #66c0f4;
+}
+
+/* ── Price Tags ───────────────────────────────────────────────── */
+.tag-free {
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: white;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.3);
+}
+.tag-discount {
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  color: white;
+  box-shadow: 0 0 15px rgba(239, 68, 68, 0.3);
+}
+
+/* ── Countdown Timer ──────────────────────────────────────────── */
+.countdown-urgent {
+  color: #ef4444;
+  animation: glowPulse 1.5s ease-in-out infinite;
+}
+.countdown-warning {
+  color: #f59e0b;
+}
+
+/* ── Stats Card ───────────────────────────────────────────────── */
+.stats-card {
+  background: white;
+  border: 1px solid rgb(229, 231, 235);
+  transition: all 0.3s ease;
+}
+.dark .stats-card {
+  background: rgb(22, 22, 29);
+  border-color: rgba(255, 255, 255, 0.06);
+}
+.stats-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.1);
+}
+.dark .stats-card:hover {
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.4);
+}
+
+/* ── Loading Skeleton ─────────────────────────────────────────── */
+.skeleton-card {
+  height: 340px;
+  background: linear-gradient(
+    90deg,
+    rgba(229, 231, 235, 0.5) 25%,
+    rgba(229, 231, 235, 0.8) 50%,
+    rgba(229, 231, 235, 0.5) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+.dark .skeleton-card {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.03) 25%,
+    rgba(255, 255, 255, 0.06) 50%,
+    rgba(255, 255, 255, 0.03) 75%
+  );
+  background-size: 200% 100%;
+}
+
+/* ── Card Entrance Animation ──────────────────────────────────── */
+.card-enter {
+  animation: slideUp 0.4s ease-out backwards;
+}
+
+/* ── Responsive Adjustments ───────────────────────────────────── */
+@media (max-width: 640px) {
+  .game-card:hover {
+    transform: none;
+  }
+}
+
+/* ── Selection Color ──────────────────────────────────────────── */
+::selection {
+  background: rgba(124, 58, 237, 0.3);
+  color: inherit;
+}
