@@ -7,37 +7,17 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-06-22T07:23:49Z"
+    "scraped_at": "2026-06-23T06:06:30Z"
   },
   {
-    "title": "The Witcher 3: Wild Hunt - Complete Edition",
+    "title": "Horizon Forbidden West™ Complete Edition",
     "platform": "Steam",
-    "original_price": "IDR 449,000",
-    "discounted_price": "IDR 89,800",
-    "discount_percent": 80,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/38e6905e6bd8395f9ae4d37c688335c7d1c93294/header_ratio.jpg?t=1775042338",
-    "url": "https://store.steampowered.com/app/124923/",
-    "scraped_at": "2026-06-22T07:23:49Z"
-  },
-  {
-    "title": "It Takes Two",
-    "platform": "Steam",
-    "original_price": "IDR 479,000",
-    "discounted_price": "IDR 143,700",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
-    "url": "https://store.steampowered.com/app/1426210/",
-    "scraped_at": "2026-06-22T07:23:49Z"
-  },
-  {
-    "title": "Dead by Daylight",
-    "platform": "Steam",
-    "original_price": "IDR 219,890",
-    "discounted_price": "IDR 87,956",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781795618",
-    "url": "https://store.steampowered.com/app/381210/",
-    "scraped_at": "2026-06-22T07:23:49Z"
+    "original_price": "IDR 879,000",
+    "discounted_price": "IDR 439,500",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1776465869",
+    "url": "https://store.steampowered.com/app/2420110/",
+    "scraped_at": "2026-06-23T06:06:30Z"
   },
   {
     "title": "Don't Starve Together",
@@ -47,26 +27,36 @@
     "discount_percent": 90,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/7026cb87b2bfc1e92e72a7875ccbdfd0acd5b3df/header_alt_assets_50.jpg?t=1781363712",
     "url": "https://store.steampowered.com/app/322330/",
-    "scraped_at": "2026-06-22T07:23:49Z"
+    "scraped_at": "2026-06-23T06:06:30Z"
   },
   {
-    "title": "theHunter: Call of the Wild™",
+    "title": "Dead by Daylight",
     "platform": "Steam",
-    "original_price": "IDR 165,999",
-    "discounted_price": "IDR 16,599",
-    "discount_percent": 90,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/fb88127355476bdab94f64f73668b76acb5eba92/header_alt_assets_13.jpg?t=1781679235",
-    "url": "https://store.steampowered.com/app/518790/",
-    "scraped_at": "2026-06-22T07:23:49Z"
-  },
-  {
-    "title": "FINAL FANTASY VII REBIRTH",
-    "platform": "Steam",
-    "original_price": "IDR 729,000",
-    "discounted_price": "IDR 291,600",
+    "original_price": "IDR 219,890",
+    "discounted_price": "IDR 87,956",
     "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
-    "url": "https://store.steampowered.com/app/2909400/",
-    "scraped_at": "2026-06-22T07:23:49Z"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781795618",
+    "url": "https://store.steampowered.com/app/381210/",
+    "scraped_at": "2026-06-23T06:06:30Z"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt - Complete Edition",
+    "platform": "Steam",
+    "original_price": "IDR 449,000",
+    "discounted_price": "IDR 89,800",
+    "discount_percent": 80,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/38e6905e6bd8395f9ae4d37c688335c7d1c93294/header_ratio.jpg?t=1775042338",
+    "url": "https://store.steampowered.com/app/124923/",
+    "scraped_at": "2026-06-23T06:06:30Z"
+  },
+  {
+    "title": "It Takes Two",
+    "platform": "Steam",
+    "original_price": "IDR 479,000",
+    "discounted_price": "IDR 143,700",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+    "url": "https://store.steampowered.com/app/1426210/",
+    "scraped_at": "2026-06-23T06:06:30Z"
   }
 ]
