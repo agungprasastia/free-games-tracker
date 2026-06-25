@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-24 06:06 UTC_
+_Last updated: 2026-06-25 06:06 UTC_
 
 > 📊 **2** games tracked · **IDR 246,998** total value saved · Epic Games: 2
 
@@ -20,9 +20,9 @@ _Last updated: 2026-06-24 06:06 UTC_
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | Horizon Forbidden West™ Complete Edition | **-50%** | ~~IDR 879,000~~ | **IDR 439,500** | [View](https://store.steampowered.com/app/2420110/) |
 | The Witcher 3: Wild Hunt - Complete Edition | **-80%** | ~~IDR 449,000~~ | **IDR 89,800** | [View](https://store.steampowered.com/app/124923/) |
+| Don't Starve Together | **-90%** | ~~IDR 95,999~~ | **IDR 9,599** | [View](https://store.steampowered.com/app/322330/) |
 | Dead by Daylight | **-60%** | ~~IDR 219,890~~ | **IDR 87,956** | [View](https://store.steampowered.com/app/381210/) |
-| Rust | **-50%** | ~~IDR 329,000~~ | **IDR 164,500** | [View](https://store.steampowered.com/app/252490/) |
-| Batman: Arkham Collection | **-85%** | ~~IDR 600,000~~ | **IDR 90,000** | [View](https://store.steampowered.com/app/320795/) |
+| FINAL FANTASY VII REBIRTH | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/2909400/) |
 
 ## 📦 Data
 
