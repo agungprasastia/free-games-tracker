@@ -2,27 +2,27 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-06-25 06:06 UTC_
+_Last updated: 2026-06-26 06:10 UTC_
 
-> 📊 **2** games tracked · **IDR 246,998** total value saved · Epic Games: 2
+> 📊 **4** games tracked · **IDR 672,997** total value saved · Epic Games: 4
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| Citizen Sleeper | Epic Games | IDR 137,999 | Jun 25, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/citizen-sleeper-944858) |
-| ROBOBEAT | Epic Games | IDR 108,999 | Jun 25, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/robobeat-5f084b) |
+| RollerCoaster Tycoon 3 Complete Edition | Epic Games | IDR 288,000 | Jul 02, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition) |
+| Voidwrought | Epic Games | IDR 137,999 | Jul 02, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
+| Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
+| Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
+| Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
-| Horizon Forbidden West™ Complete Edition | **-50%** | ~~IDR 879,000~~ | **IDR 439,500** | [View](https://store.steampowered.com/app/2420110/) |
-| The Witcher 3: Wild Hunt - Complete Edition | **-80%** | ~~IDR 449,000~~ | **IDR 89,800** | [View](https://store.steampowered.com/app/124923/) |
-| Don't Starve Together | **-90%** | ~~IDR 95,999~~ | **IDR 9,599** | [View](https://store.steampowered.com/app/322330/) |
-| Dead by Daylight | **-60%** | ~~IDR 219,890~~ | **IDR 87,956** | [View](https://store.steampowered.com/app/381210/) |
-| FINAL FANTASY VII REBIRTH | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/2909400/) |
+| Sekiro™: Shadows Die Twice - GOTY Edition | **-50%** | ~~IDR 891,000~~ | **IDR 445,500** | [View](https://store.steampowered.com/app/814380/) |
+| Sons Of The Forest | **-70%** | ~~IDR 245,999~~ | **IDR 73,799** | [View](https://store.steampowered.com/app/1326470/) |
 
 ## 📦 Data
 
