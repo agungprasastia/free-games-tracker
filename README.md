@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-01 06:25 UTC_
+_Last updated: 2026-07-02 05:58 UTC_
 
 > 📊 **4** games tracked · **IDR 672,997** total value saved · Epic Games: 4
 
@@ -23,6 +23,7 @@ _Last updated: 2026-07-01 06:25 UTC_
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
 | Sons Of The Forest | **-70%** | ~~IDR 245,999~~ | **IDR 73,799** | [View](https://store.steampowered.com/app/1326470/) |
 | Sekiro™: Shadows Die Twice - GOTY Edition | **-50%** | ~~IDR 891,000~~ | **IDR 445,500** | [View](https://store.steampowered.com/app/814380/) |
+| Ready or Not | **-50%** | ~~IDR 255,999~~ | **IDR 127,999** | [View](https://store.steampowered.com/app/1144200/) |
 
 ## 📦 Data
 
