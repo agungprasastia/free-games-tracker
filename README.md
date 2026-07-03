@@ -2,16 +2,16 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-02 05:58 UTC_
+_Last updated: 2026-07-03 05:52 UTC_
 
-> 📊 **4** games tracked · **IDR 672,997** total value saved · Epic Games: 4
+> 📊 **6** games tracked · **IDR 1,019,995** total value saved · Epic Games: 6
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| RollerCoaster Tycoon 3 Complete Edition | Epic Games | IDR 288,000 | Jul 02, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition) |
-| Voidwrought | Epic Games | IDR 137,999 | Jul 02, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b) |
+| River City Girls 2 | Epic Games | IDR 276,999 | Jul 09, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) |
+| I Have No Mouth, and I Must Scream | Epic Games | IDR 69,999 | Jul 09, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) |
 
 ## 🏷️ Steam deals (>50% off)
 
