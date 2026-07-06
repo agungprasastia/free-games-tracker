@@ -1,15 +1,5 @@
 [
   {
-    "title": "Terraria",
-    "platform": "Steam",
-    "original_price": "IDR 90,999",
-    "discounted_price": "IDR 45,499",
-    "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-    "url": "https://store.steampowered.com/app/105600/",
-    "scraped_at": "2026-07-05T06:03:51Z"
-  },
-  {
     "title": "Cyberpunk 2077",
     "platform": "Steam",
     "original_price": "IDR 699,999",
@@ -17,7 +7,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   },
   {
     "title": "Grand Theft Auto V Enhanced",
@@ -27,7 +17,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   },
   {
     "title": "Grand Theft Auto V Enhanced",
@@ -37,7 +27,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   },
   {
     "title": "Red Dead Redemption 2",
@@ -47,7 +37,7 @@
     "discount_percent": 75,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
     "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   },
   {
     "title": "Sons Of The Forest",
@@ -57,7 +47,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
     "url": "https://store.steampowered.com/app/1326470/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   },
   {
     "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
@@ -67,6 +57,6 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
     "url": "https://store.steampowered.com/app/814380/",
-    "scraped_at": "2026-07-05T06:03:51Z"
+    "scraped_at": "2026-07-06T06:27:44Z"
   }
 ]
