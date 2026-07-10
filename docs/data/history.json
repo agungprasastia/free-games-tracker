@@ -58,5 +58,25 @@
     "start_date": "2026-07-02T15:00:00.000Z",
     "end_date": "2026-07-09T15:00:00.000Z",
     "scraped_at": "2026-07-03T05:52:50Z"
+  },
+  {
+    "title": "Nova Lands",
+    "platform": "Epic Games",
+    "original_price": "IDR 165,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png",
+    "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
+    "start_date": "2026-07-09T15:00:00.000Z",
+    "end_date": "2026-07-16T15:00:00.000Z",
+    "scraped_at": "2026-07-10T06:02:54Z"
+  },
+  {
+    "title": "Tattoo Tycoon",
+    "platform": "Epic Games",
+    "original_price": "IDR 269,000",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg",
+    "url": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
+    "start_date": "2026-07-09T15:00:00.000Z",
+    "end_date": "2026-07-16T15:00:00.000Z",
+    "scraped_at": "2026-07-10T06:02:54Z"
   }
 ]

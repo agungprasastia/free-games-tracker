@@ -2,27 +2,26 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-09 06:03 UTC_
+_Last updated: 2026-07-10 06:02 UTC_
 
-> 📊 **6** games tracked · **IDR 1,019,995** total value saved · Epic Games: 6
+> 📊 **8** games tracked · **IDR 1,454,994** total value saved · Epic Games: 8
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| River City Girls 2 | Epic Games | IDR 276,999 | Jul 09, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a) |
-| I Have No Mouth, and I Must Scream | Epic Games | IDR 69,999 | Jul 09, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2) |
+| Nova Lands | Epic Games | IDR 165,999 | Jul 16, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/nova-lands-4d1788) |
+| Tattoo Tycoon | Epic Games | IDR 269,000 | Jul 16, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
-| Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
-| Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
-| Sons Of The Forest | **-70%** | ~~IDR 245,999~~ | **IDR 73,799** | [View](https://store.steampowered.com/app/1326470/) |
-| Sekiro™: Shadows Die Twice - GOTY Edition | **-50%** | ~~IDR 891,000~~ | **IDR 445,500** | [View](https://store.steampowered.com/app/814380/) |
+| Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
+| Planet Zoo | **-95%** | ~~IDR 440,278~~ | **IDR 22,013** | [View](https://store.steampowered.com/app/703080/) |
+| Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
+| Grand Theft Auto: The Trilogy – The Definitive Edition | **-67%** | ~~IDR 649,000~~ | **IDR 214,170** | [View](https://store.steampowered.com/app/817628/) |
 
 ## 📦 Data
 
