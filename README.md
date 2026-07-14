@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-13 05:36 UTC_
+_Last updated: 2026-07-14 04:50 UTC_
 
 > 📊 **8** games tracked · **IDR 1,454,994** total value saved · Epic Games: 8
 
@@ -17,11 +17,10 @@ _Last updated: 2026-07-13 05:36 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
-| Planet Zoo | **-95%** | ~~IDR 440,278~~ | **IDR 22,013** | [View](https://store.steampowered.com/app/703080/) |
-| Grand Theft Auto: The Trilogy – The Definitive Edition | **-67%** | ~~IDR 649,000~~ | **IDR 214,170** | [View](https://store.steampowered.com/app/817628/) |
-| Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
+| Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
+| No Man's Sky | **-60%** | ~~IDR 449,999~~ | **IDR 179,999** | [View](https://store.steampowered.com/app/275850/) |
+| Assassin’s Creed Shadows | **-55%** | ~~IDR 799,000~~ | **IDR 359,550** | [View](https://store.steampowered.com/app/3159330/) |
 
 ## 📦 Data
 
