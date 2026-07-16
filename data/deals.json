@@ -7,7 +7,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "scraped_at": "2026-07-16T05:09:41Z"
   },
   {
     "title": "Grand Theft Auto V Enhanced",
@@ -17,7 +17,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "scraped_at": "2026-07-16T05:09:41Z"
   },
   {
     "title": "Red Dead Redemption 2",
@@ -27,7 +27,7 @@
     "discount_percent": 75,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
     "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "scraped_at": "2026-07-16T05:09:41Z"
   },
   {
     "title": "The Outlast Trials",
@@ -35,9 +35,9 @@
     "original_price": "IDR 299,999",
     "discounted_price": "IDR 89,999",
     "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784039821",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
     "url": "https://store.steampowered.com/app/1304930/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "scraped_at": "2026-07-16T05:09:41Z"
   },
   {
     "title": "No Man's Sky",
@@ -47,16 +47,16 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
     "url": "https://store.steampowered.com/app/275850/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "scraped_at": "2026-07-16T05:09:41Z"
   },
   {
-    "title": "Assassin’s Creed Shadows",
+    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
     "platform": "Steam",
-    "original_price": "IDR 799,000",
-    "discounted_price": "IDR 359,550",
-    "discount_percent": 55,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420",
-    "url": "https://store.steampowered.com/app/3159330/",
-    "scraped_at": "2026-07-15T04:51:04Z"
+    "original_price": "IDR 649,000",
+    "discounted_price": "IDR 214,170",
+    "discount_percent": 67,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+    "url": "https://store.steampowered.com/app/817628/",
+    "scraped_at": "2026-07-16T05:09:41Z"
   }
 ]

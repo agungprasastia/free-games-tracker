@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-15 04:51 UTC_
+_Last updated: 2026-07-16 05:09 UTC_
 
 > 📊 **8** games tracked · **IDR 1,454,994** total value saved · Epic Games: 8
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-15 04:51 UTC_
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
 | The Outlast Trials | **-70%** | ~~IDR 299,999~~ | **IDR 89,999** | [View](https://store.steampowered.com/app/1304930/) |
 | No Man's Sky | **-60%** | ~~IDR 449,999~~ | **IDR 179,999** | [View](https://store.steampowered.com/app/275850/) |
-| Assassin’s Creed Shadows | **-55%** | ~~IDR 799,000~~ | **IDR 359,550** | [View](https://store.steampowered.com/app/3159330/) |
+| Grand Theft Auto: The Trilogy – The Definitive Edition | **-67%** | ~~IDR 649,000~~ | **IDR 214,170** | [View](https://store.steampowered.com/app/817628/) |
 
 ## 📦 Data
 
