@@ -2,27 +2,25 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-16 05:09 UTC_
+_Last updated: 2026-07-17 05:13 UTC_
 
-> 📊 **8** games tracked · **IDR 1,454,994** total value saved · Epic Games: 8
+> 📊 **10** games tracked · **IDR 1,793,992** total value saved · Epic Games: 10
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| Nova Lands | Epic Games | IDR 165,999 | Jul 16, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/nova-lands-4d1788) |
-| Tattoo Tycoon | Epic Games | IDR 269,000 | Jul 16, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c) |
+| Luto | Epic Games | IDR 165,999 | Jul 23, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/luto-0a4ab3) |
+| Echo Generation: Midnight Edition | Epic Games | IDR 172,999 | Jul 23, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
 | Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
-| Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
+| Warhammer 40,000: Space Marine 2 | **-70%** | ~~IDR 549,000~~ | **IDR 164,700** | [View](https://store.steampowered.com/app/2183900/) |
 | The Outlast Trials | **-70%** | ~~IDR 299,999~~ | **IDR 89,999** | [View](https://store.steampowered.com/app/1304930/) |
-| No Man's Sky | **-60%** | ~~IDR 449,999~~ | **IDR 179,999** | [View](https://store.steampowered.com/app/275850/) |
-| Grand Theft Auto: The Trilogy – The Definitive Edition | **-67%** | ~~IDR 649,000~~ | **IDR 214,170** | [View](https://store.steampowered.com/app/817628/) |
 
 ## 📦 Data
 

@@ -1,22 +1,22 @@
 [
   {
-    "title": "Nova Lands",
+    "title": "Luto",
     "platform": "Epic Games",
     "original_price": "IDR 165,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png",
-    "url": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
-    "start_date": "2026-07-09T15:00:00.000Z",
-    "end_date": "2026-07-16T15:00:00.000Z",
-    "scraped_at": "2026-07-16T05:09:41Z"
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-6z9b4.png",
+    "url": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+    "start_date": "2026-07-16T15:00:00.000Z",
+    "end_date": "2026-07-23T15:00:00.000Z",
+    "scraped_at": "2026-07-17T05:13:13Z"
   },
   {
-    "title": "Tattoo Tycoon",
+    "title": "Echo Generation: Midnight Edition",
     "platform": "Epic Games",
-    "original_price": "IDR 269,000",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg",
-    "url": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
-    "start_date": "2026-07-09T15:00:00.000Z",
-    "end_date": "2026-07-16T15:00:00.000Z",
-    "scraped_at": "2026-07-16T05:09:41Z"
+    "original_price": "IDR 172,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-1b7uz.jpg",
+    "url": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+    "start_date": "2026-07-16T15:00:00.000Z",
+    "end_date": "2026-07-23T15:00:00.000Z",
+    "scraped_at": "2026-07-17T05:13:13Z"
   }
 ]
