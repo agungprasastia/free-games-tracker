@@ -7,7 +7,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-21T05:19:53Z"
+    "scraped_at": "2026-07-22T05:18:48Z"
   },
   {
     "title": "Grand Theft Auto V Enhanced",
@@ -17,7 +17,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-21T05:19:53Z"
+    "scraped_at": "2026-07-22T05:18:48Z"
   },
   {
     "title": "Red Dead Redemption 2",
@@ -27,17 +27,7 @@
     "discount_percent": 75,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
     "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-07-21T05:19:53Z"
-  },
-  {
-    "title": "The Outlast Trials",
-    "platform": "Steam",
-    "original_price": "IDR 299,999",
-    "discounted_price": "IDR 89,999",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
-    "url": "https://store.steampowered.com/app/1304930/",
-    "scraped_at": "2026-07-21T05:19:53Z"
+    "scraped_at": "2026-07-22T05:18:48Z"
   },
   {
     "title": "Tainted Grail: The Fall of Avalon",
@@ -45,18 +35,8 @@
     "original_price": "IDR 338,999",
     "discounted_price": "IDR 169,499",
     "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1782412343",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1784626931",
     "url": "https://store.steampowered.com/app/1466060/",
-    "scraped_at": "2026-07-21T05:19:53Z"
-  },
-  {
-    "title": "Resident Evil 4",
-    "platform": "Steam",
-    "original_price": "IDR 519,000",
-    "discounted_price": "IDR 129,750",
-    "discount_percent": 75,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-    "url": "https://store.steampowered.com/app/2050650/",
-    "scraped_at": "2026-07-21T05:19:53Z"
+    "scraped_at": "2026-07-22T05:18:48Z"
   }
 ]
