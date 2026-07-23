@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-22 05:18 UTC_
+_Last updated: 2026-07-23 05:23 UTC_
 
 > 📊 **10** games tracked · **IDR 1,793,992** total value saved · Epic Games: 10
 
@@ -20,7 +20,6 @@ _Last updated: 2026-07-22 05:18 UTC_
 | Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
 | Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
-| Tainted Grail: The Fall of Avalon | **-50%** | ~~IDR 338,999~~ | **IDR 169,499** | [View](https://store.steampowered.com/app/1466060/) |
 
 ## 📦 Data
 
