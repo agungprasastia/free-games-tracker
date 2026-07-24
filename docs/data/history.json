@@ -98,5 +98,15 @@
     "start_date": "2026-07-16T15:00:00.000Z",
     "end_date": "2026-07-23T15:00:00.000Z",
     "scraped_at": "2026-07-17T05:13:13Z"
+  },
+  {
+    "title": "Foretales",
+    "platform": "Epic Games",
+    "original_price": "IDR 298,682",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/download-foretales-offer-o19ij.jpg",
+    "url": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
+    "start_date": "2026-07-23T15:00:00.000Z",
+    "end_date": "2026-07-30T15:00:00.000Z",
+    "scraped_at": "2026-07-24T05:19:17Z"
   }
 ]

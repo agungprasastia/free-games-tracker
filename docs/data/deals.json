@@ -7,26 +7,36 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-23T05:23:56Z"
+    "scraped_at": "2026-07-24T05:19:17Z"
   },
   {
-    "title": "Grand Theft Auto V Enhanced",
+    "title": "ICARUS",
     "platform": "Steam",
-    "original_price": "IDR 439,000",
-    "discounted_price": "IDR 219,500",
+    "original_price": "IDR 284,999",
+    "discounted_price": "IDR 56,999",
+    "discount_percent": 80,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
+    "url": "https://store.steampowered.com/app/1149460/",
+    "scraped_at": "2026-07-24T05:19:17Z"
+  },
+  {
+    "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "platform": "Steam",
+    "original_price": "IDR 729,000",
+    "discounted_price": "IDR 364,500",
     "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-    "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-23T05:23:56Z"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
+    "url": "https://store.steampowered.com/app/886313/",
+    "scraped_at": "2026-07-24T05:19:17Z"
   },
   {
-    "title": "Red Dead Redemption 2",
+    "title": "Warhammer 40,000: Space Marine 2",
     "platform": "Steam",
-    "original_price": "IDR 879,000",
-    "discounted_price": "IDR 219,750",
-    "discount_percent": 75,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-    "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-07-23T05:23:56Z"
+    "original_price": "IDR 549,000",
+    "discounted_price": "IDR 164,700",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
+    "url": "https://store.steampowered.com/app/2183900/",
+    "scraped_at": "2026-07-24T05:19:17Z"
   }
 ]
