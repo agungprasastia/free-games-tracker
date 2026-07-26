@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-25 05:14 UTC_
+_Last updated: 2026-07-26 05:31 UTC_
 
 > 📊 **11** games tracked · **IDR 2,092,674** total value saved · Epic Games: 11
 
@@ -18,7 +18,7 @@ _Last updated: 2026-07-25 05:14 UTC_
 |------|----------|----------|------------|------|
 | Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
 | ICARUS | **-80%** | ~~IDR 284,999~~ | **IDR 56,999** | [View](https://store.steampowered.com/app/1149460/) |
-| METAL GEAR SOLID: MASTER COLLECTION Vol.1 | **-50%** | ~~IDR 729,000~~ | **IDR 364,500** | [View](https://store.steampowered.com/app/886313/) |
+| Warhammer 40,000: Space Marine 2 | **-70%** | ~~IDR 549,000~~ | **IDR 164,700** | [View](https://store.steampowered.com/app/2183900/) |
 
 ## 📦 Data
 
