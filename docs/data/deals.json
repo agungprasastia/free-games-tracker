@@ -1,5 +1,15 @@
 [
   {
+    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "platform": "Steam",
+    "original_price": "IDR 904,000",
+    "discounted_price": "IDR 361,600",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
+    "url": "https://store.steampowered.com/app/2417610/",
+    "scraped_at": "2026-07-27T05:49:47Z"
+  },
+  {
     "title": "Grand Theft Auto V Enhanced",
     "platform": "Steam",
     "original_price": "IDR 439,000",
@@ -7,7 +17,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-26T05:31:24Z"
+    "scraped_at": "2026-07-27T05:49:47Z"
   },
   {
     "title": "ICARUS",
@@ -17,16 +27,16 @@
     "discount_percent": 80,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
     "url": "https://store.steampowered.com/app/1149460/",
-    "scraped_at": "2026-07-26T05:31:24Z"
+    "scraped_at": "2026-07-27T05:49:47Z"
   },
   {
-    "title": "Warhammer 40,000: Space Marine 2",
+    "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
     "platform": "Steam",
-    "original_price": "IDR 549,000",
-    "discounted_price": "IDR 164,700",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
-    "url": "https://store.steampowered.com/app/2183900/",
-    "scraped_at": "2026-07-26T05:31:24Z"
+    "original_price": "IDR 729,000",
+    "discounted_price": "IDR 364,500",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
+    "url": "https://store.steampowered.com/app/886313/",
+    "scraped_at": "2026-07-27T05:49:47Z"
   }
 ]
