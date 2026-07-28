@@ -1,13 +1,13 @@
 [
   {
-    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "title": "Cyberpunk 2077",
     "platform": "Steam",
-    "original_price": "IDR 904,000",
-    "discounted_price": "IDR 361,600",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
-    "url": "https://store.steampowered.com/app/2417610/",
-    "scraped_at": "2026-07-27T05:49:47Z"
+    "original_price": "IDR 699,999",
+    "discounted_price": "IDR 209,999",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+    "url": "https://store.steampowered.com/app/1091500/",
+    "scraped_at": "2026-07-28T05:13:55Z"
   },
   {
     "title": "Grand Theft Auto V Enhanced",
@@ -17,7 +17,17 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-07-27T05:49:47Z"
+    "scraped_at": "2026-07-28T05:13:55Z"
+  },
+  {
+    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "platform": "Steam",
+    "original_price": "IDR 904,000",
+    "discounted_price": "IDR 361,600",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
+    "url": "https://store.steampowered.com/app/2417610/",
+    "scraped_at": "2026-07-28T05:13:55Z"
   },
   {
     "title": "ICARUS",
@@ -27,16 +37,16 @@
     "discount_percent": 80,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
     "url": "https://store.steampowered.com/app/1149460/",
-    "scraped_at": "2026-07-27T05:49:47Z"
+    "scraped_at": "2026-07-28T05:13:55Z"
   },
   {
-    "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+    "title": "The Witcher 3: Wild Hunt - Complete Edition",
     "platform": "Steam",
-    "original_price": "IDR 729,000",
-    "discounted_price": "IDR 364,500",
-    "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
-    "url": "https://store.steampowered.com/app/886313/",
-    "scraped_at": "2026-07-27T05:49:47Z"
+    "original_price": "IDR 449,000",
+    "discounted_price": "IDR 89,800",
+    "discount_percent": 80,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/38e6905e6bd8395f9ae4d37c688335c7d1c93294/header_ratio.jpg?t=1775042338",
+    "url": "https://store.steampowered.com/app/124923/",
+    "scraped_at": "2026-07-28T05:13:55Z"
   }
 ]

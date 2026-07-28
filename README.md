@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-27 05:49 UTC_
+_Last updated: 2026-07-28 05:13 UTC_
 
 > 📊 **11** games tracked · **IDR 2,092,674** total value saved · Epic Games: 11
 
@@ -16,10 +16,11 @@ _Last updated: 2026-07-27 05:49 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| METAL GEAR SOLID Δ: SNAKE EATER | **-60%** | ~~IDR 904,000~~ | **IDR 361,600** | [View](https://store.steampowered.com/app/2417610/) |
+| Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | Grand Theft Auto V Enhanced | **-50%** | ~~IDR 439,000~~ | **IDR 219,500** | [View](https://store.steampowered.com/app/3240220/) |
+| METAL GEAR SOLID Δ: SNAKE EATER | **-60%** | ~~IDR 904,000~~ | **IDR 361,600** | [View](https://store.steampowered.com/app/2417610/) |
 | ICARUS | **-80%** | ~~IDR 284,999~~ | **IDR 56,999** | [View](https://store.steampowered.com/app/1149460/) |
-| METAL GEAR SOLID: MASTER COLLECTION Vol.1 | **-50%** | ~~IDR 729,000~~ | **IDR 364,500** | [View](https://store.steampowered.com/app/886313/) |
+| The Witcher 3: Wild Hunt - Complete Edition | **-80%** | ~~IDR 449,000~~ | **IDR 89,800** | [View](https://store.steampowered.com/app/124923/) |
 
 ## 📦 Data
 
