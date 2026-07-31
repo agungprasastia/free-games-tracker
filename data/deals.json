@@ -1,5 +1,25 @@
 [
   {
+    "title": "Marvel’s Spider-Man Remastered",
+    "platform": "Steam",
+    "original_price": "IDR 879,000",
+    "discounted_price": "IDR 351,600",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
+    "url": "https://store.steampowered.com/app/1817070/",
+    "scraped_at": "2026-07-31T05:34:33Z"
+  },
+  {
+    "title": "Marvel’s Spider-Man: Miles Morales",
+    "platform": "Steam",
+    "original_price": "IDR 729,000",
+    "discounted_price": "IDR 291,600",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
+    "url": "https://store.steampowered.com/app/1817190/",
+    "scraped_at": "2026-07-31T05:34:33Z"
+  },
+  {
     "title": "Cyberpunk 2077",
     "platform": "Steam",
     "original_price": "IDR 699,999",
@@ -7,46 +27,16 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-07-30T04:57:30Z"
+    "scraped_at": "2026-07-31T05:34:33Z"
   },
   {
-    "title": "Rust",
+    "title": "Gears 5",
     "platform": "Steam",
-    "original_price": "IDR 329,000",
-    "discounted_price": "IDR 164,500",
-    "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-    "url": "https://store.steampowered.com/app/252490/",
-    "scraped_at": "2026-07-30T04:57:30Z"
-  },
-  {
-    "title": "Warhammer 40,000: Space Marine 2",
-    "platform": "Steam",
-    "original_price": "IDR 549,000",
-    "discounted_price": "IDR 164,700",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/2f7b287bdc8ffcea5b32aa44368e7d8a9568be5e/header_alt_assets_13.jpg?t=1785341124",
-    "url": "https://store.steampowered.com/app/2183900/",
-    "scraped_at": "2026-07-30T04:57:30Z"
-  },
-  {
-    "title": "ICARUS",
-    "platform": "Steam",
-    "original_price": "IDR 284,999",
-    "discounted_price": "IDR 56,999",
-    "discount_percent": 80,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
-    "url": "https://store.steampowered.com/app/1149460/",
-    "scraped_at": "2026-07-30T04:57:30Z"
-  },
-  {
-    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
-    "platform": "Steam",
-    "original_price": "IDR 904,000",
-    "discounted_price": "IDR 361,600",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
-    "url": "https://store.steampowered.com/app/2417610/",
-    "scraped_at": "2026-07-30T04:57:30Z"
+    "original_price": "IDR 424,500",
+    "discounted_price": "IDR 63,675",
+    "discount_percent": 85,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1780003997",
+    "url": "https://store.steampowered.com/app/1097840/",
+    "scraped_at": "2026-07-31T05:34:33Z"
   }
 ]

@@ -108,5 +108,25 @@
     "start_date": "2026-07-23T15:00:00.000Z",
     "end_date": "2026-07-30T15:00:00.000Z",
     "scraped_at": "2026-07-24T05:19:17Z"
+  },
+  {
+    "title": "OTXO",
+    "platform": "Epic Games",
+    "original_price": "IDR 103,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-1qsng.jpg",
+    "url": "https://store.epicgames.com/en-US/p/otxo-396b8b",
+    "start_date": "2026-07-30T15:00:00.000Z",
+    "end_date": "2026-08-06T15:00:00.000Z",
+    "scraped_at": "2026-07-31T05:34:34Z"
+  },
+  {
+    "title": "Sol Cesto",
+    "platform": "Epic Games",
+    "original_price": "IDR 122,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
+    "url": "https://store.epicgames.com/en-US/p/sol-cesto-e9b803",
+    "start_date": "2026-07-30T15:00:00.000Z",
+    "end_date": "2026-08-06T15:00:00.000Z",
+    "scraped_at": "2026-07-31T05:34:34Z"
   }
 ]

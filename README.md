@@ -2,25 +2,25 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-07-30 04:57 UTC_
+_Last updated: 2026-07-31 05:34 UTC_
 
-> 📊 **11** games tracked · **IDR 2,092,674** total value saved · Epic Games: 11
+> 📊 **13** games tracked · **IDR 2,319,672** total value saved · Epic Games: 13
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| Foretales | Epic Games | IDR 298,682 | Jul 30, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/foretales-d6c5bd) |
+| OTXO | Epic Games | IDR 103,999 | Aug 06, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/otxo-396b8b) |
+| Sol Cesto | Epic Games | IDR 122,999 | Aug 06, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
+| Marvel’s Spider-Man Remastered | **-60%** | ~~IDR 879,000~~ | **IDR 351,600** | [View](https://store.steampowered.com/app/1817070/) |
+| Marvel’s Spider-Man: Miles Morales | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/1817190/) |
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
-| Rust | **-50%** | ~~IDR 329,000~~ | **IDR 164,500** | [View](https://store.steampowered.com/app/252490/) |
-| Warhammer 40,000: Space Marine 2 | **-70%** | ~~IDR 549,000~~ | **IDR 164,700** | [View](https://store.steampowered.com/app/2183900/) |
-| ICARUS | **-80%** | ~~IDR 284,999~~ | **IDR 56,999** | [View](https://store.steampowered.com/app/1149460/) |
-| METAL GEAR SOLID Δ: SNAKE EATER | **-60%** | ~~IDR 904,000~~ | **IDR 361,600** | [View](https://store.steampowered.com/app/2417610/) |
+| Gears 5 | **-85%** | ~~IDR 424,500~~ | **IDR 63,675** | [View](https://store.steampowered.com/app/1097840/) |
 
 ## 📦 Data
 
