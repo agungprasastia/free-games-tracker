@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-01 05:26 UTC_
+_Last updated: 2026-08-02 05:26 UTC_
 
 > 📊 **13** games tracked · **IDR 2,319,672** total value saved · Epic Games: 13
 
@@ -20,6 +20,7 @@ _Last updated: 2026-08-01 05:26 UTC_
 | Marvel’s Spider-Man Remastered | **-60%** | ~~IDR 879,000~~ | **IDR 351,600** | [View](https://store.steampowered.com/app/1817070/) |
 | Marvel’s Spider-Man: Miles Morales | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/1817190/) |
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
+| Rust | **-50%** | ~~IDR 329,000~~ | **IDR 164,500** | [View](https://store.steampowered.com/app/252490/) |
 
 ## 📦 Data
 
