@@ -7,7 +7,7 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
     "url": "https://store.steampowered.com/app/1817070/",
-    "scraped_at": "2026-08-04T05:14:01Z"
+    "scraped_at": "2026-08-05T05:14:06Z"
   },
   {
     "title": "Cyberpunk 2077",
@@ -17,7 +17,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-08-04T05:14:01Z"
+    "scraped_at": "2026-08-05T05:14:06Z"
   },
   {
     "title": "Marvel’s Spider-Man: Miles Morales",
@@ -27,17 +27,17 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
     "url": "https://store.steampowered.com/app/1817190/",
-    "scraped_at": "2026-08-04T05:14:01Z"
+    "scraped_at": "2026-08-05T05:14:06Z"
   },
   {
-    "title": "Assassin's Creed® Odyssey",
+    "title": "Ready or Not",
     "platform": "Steam",
-    "original_price": "IDR 619,000",
-    "discounted_price": "IDR 123,800",
-    "discount_percent": 80,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1777476997",
-    "url": "https://store.steampowered.com/app/812140/",
-    "scraped_at": "2026-08-04T05:14:01Z"
+    "original_price": "IDR 255,999",
+    "discounted_price": "IDR 127,999",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
+    "url": "https://store.steampowered.com/app/1144200/",
+    "scraped_at": "2026-08-05T05:14:06Z"
   },
   {
     "title": "Need for Speed™ Heat",
@@ -47,6 +47,16 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
     "url": "https://store.steampowered.com/app/1222680/",
-    "scraped_at": "2026-08-04T05:14:01Z"
+    "scraped_at": "2026-08-05T05:14:06Z"
+  },
+  {
+    "title": "PEAK",
+    "platform": "Steam",
+    "original_price": "IDR 69,999",
+    "discounted_price": "IDR 34,999",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+    "url": "https://store.steampowered.com/app/3527290/",
+    "scraped_at": "2026-08-05T05:14:06Z"
   }
 ]
