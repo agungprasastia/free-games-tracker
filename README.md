@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-05 05:14 UTC_
+_Last updated: 2026-08-06 05:15 UTC_
 
 > 📊 **13** games tracked · **IDR 2,319,672** total value saved · Epic Games: 13
 
@@ -21,7 +21,6 @@ _Last updated: 2026-08-05 05:14 UTC_
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | Marvel’s Spider-Man: Miles Morales | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/1817190/) |
 | Ready or Not | **-50%** | ~~IDR 255,999~~ | **IDR 127,999** | [View](https://store.steampowered.com/app/1144200/) |
-| Need for Speed™ Heat | **-95%** | ~~IDR 759,000~~ | **IDR 37,950** | [View](https://store.steampowered.com/app/1222680/) |
 | PEAK | **-50%** | ~~IDR 69,999~~ | **IDR 34,999** | [View](https://store.steampowered.com/app/3527290/) |
 
 ## 📦 Data
