@@ -1,13 +1,13 @@
 [
   {
-    "title": "Marvel’s Spider-Man Remastered",
+    "title": "Tom Clancy's Ghost Recon® Wildlands",
     "platform": "Steam",
-    "original_price": "IDR 879,000",
-    "discounted_price": "IDR 351,600",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
-    "url": "https://store.steampowered.com/app/1817070/",
-    "scraped_at": "2026-08-06T05:15:38Z"
+    "original_price": "IDR 515,000",
+    "discounted_price": "IDR 25,750",
+    "discount_percent": 95,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1786036748",
+    "url": "https://store.steampowered.com/app/460930/",
+    "scraped_at": "2026-08-07T04:24:50Z"
   },
   {
     "title": "Cyberpunk 2077",
@@ -17,17 +17,27 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-08-06T05:15:38Z"
+    "scraped_at": "2026-08-07T04:24:50Z"
   },
   {
-    "title": "Marvel’s Spider-Man: Miles Morales",
+    "title": "Tom Clancy's Ghost Recon® Wildlands",
     "platform": "Steam",
-    "original_price": "IDR 729,000",
-    "discounted_price": "IDR 291,600",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
-    "url": "https://store.steampowered.com/app/1817190/",
-    "scraped_at": "2026-08-06T05:15:38Z"
+    "original_price": "IDR 515,000",
+    "discounted_price": "IDR 25,750",
+    "discount_percent": 95,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1786036748",
+    "url": "https://store.steampowered.com/app/460930/",
+    "scraped_at": "2026-08-07T04:24:50Z"
+  },
+  {
+    "title": "Tom Clancy's Ghost Recon® Breakpoint",
+    "platform": "Steam",
+    "original_price": "IDR 619,000",
+    "discounted_price": "IDR 30,950",
+    "discount_percent": 95,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/3e05f31b9aa9fd29b9709f035e73761a908e9fbe/header.jpg?t=1786026109",
+    "url": "https://store.steampowered.com/app/2231380/",
+    "scraped_at": "2026-08-07T04:24:50Z"
   },
   {
     "title": "Ready or Not",
@@ -37,16 +47,6 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
     "url": "https://store.steampowered.com/app/1144200/",
-    "scraped_at": "2026-08-06T05:15:38Z"
-  },
-  {
-    "title": "PEAK",
-    "platform": "Steam",
-    "original_price": "IDR 69,999",
-    "discounted_price": "IDR 34,999",
-    "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
-    "url": "https://store.steampowered.com/app/3527290/",
-    "scraped_at": "2026-08-06T05:15:38Z"
+    "scraped_at": "2026-08-07T04:24:50Z"
   }
 ]

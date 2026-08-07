@@ -128,5 +128,25 @@
     "start_date": "2026-07-30T15:00:00.000Z",
     "end_date": "2026-08-06T15:00:00.000Z",
     "scraped_at": "2026-07-31T05:34:34Z"
+  },
+  {
+    "title": "Beacon Pines",
+    "platform": "Epic Games",
+    "original_price": "IDR 137,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/download-beacon-pines-offer-1ko2w.jpg",
+    "url": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
+    "start_date": "2026-08-06T15:00:00.000Z",
+    "end_date": "2026-08-13T15:00:00.000Z",
+    "scraped_at": "2026-08-07T04:24:50Z"
+  },
+  {
+    "title": "We Were Here Together",
+    "platform": "Epic Games",
+    "original_price": "IDR 89,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png",
+    "url": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+    "start_date": "2026-08-06T15:00:00.000Z",
+    "end_date": "2026-08-13T15:00:00.000Z",
+    "scraped_at": "2026-08-07T04:24:50Z"
   }
 ]

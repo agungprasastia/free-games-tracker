@@ -2,26 +2,26 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-06 05:15 UTC_
+_Last updated: 2026-08-07 04:24 UTC_
 
-> 📊 **13** games tracked · **IDR 2,319,672** total value saved · Epic Games: 13
+> 📊 **15** games tracked · **IDR 2,547,670** total value saved · Epic Games: 15
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| OTXO | Epic Games | IDR 103,999 | Aug 06, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/otxo-396b8b) |
-| Sol Cesto | Epic Games | IDR 122,999 | Aug 06, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/sol-cesto-e9b803) |
+| Beacon Pines | Epic Games | IDR 137,999 | Aug 13, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/beacon-pines-629fc3) |
+| We Were Here Together | Epic Games | IDR 89,999 | Aug 13, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Marvel’s Spider-Man Remastered | **-60%** | ~~IDR 879,000~~ | **IDR 351,600** | [View](https://store.steampowered.com/app/1817070/) |
+| Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
-| Marvel’s Spider-Man: Miles Morales | **-60%** | ~~IDR 729,000~~ | **IDR 291,600** | [View](https://store.steampowered.com/app/1817190/) |
+| Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
+| Tom Clancy's Ghost Recon® Breakpoint | **-95%** | ~~IDR 619,000~~ | **IDR 30,950** | [View](https://store.steampowered.com/app/2231380/) |
 | Ready or Not | **-50%** | ~~IDR 255,999~~ | **IDR 127,999** | [View](https://store.steampowered.com/app/1144200/) |
-| PEAK | **-50%** | ~~IDR 69,999~~ | **IDR 34,999** | [View](https://store.steampowered.com/app/3527290/) |
 
 ## 📦 Data
 
