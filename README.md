@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-07 04:24 UTC_
+_Last updated: 2026-08-08 03:23 UTC_
 
 > 📊 **15** games tracked · **IDR 2,547,670** total value saved · Epic Games: 15
 
@@ -21,7 +21,6 @@ _Last updated: 2026-08-07 04:24 UTC_
 | Cyberpunk 2077 | **-70%** | ~~IDR 699,999~~ | **IDR 209,999** | [View](https://store.steampowered.com/app/1091500/) |
 | Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
 | Tom Clancy's Ghost Recon® Breakpoint | **-95%** | ~~IDR 619,000~~ | **IDR 30,950** | [View](https://store.steampowered.com/app/2231380/) |
-| Ready or Not | **-50%** | ~~IDR 255,999~~ | **IDR 127,999** | [View](https://store.steampowered.com/app/1144200/) |
 
 ## 📦 Data
 
