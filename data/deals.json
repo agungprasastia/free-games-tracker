@@ -1,15 +1,5 @@
 [
   {
-    "title": "Tom Clancy's Ghost Recon® Wildlands",
-    "platform": "Steam",
-    "original_price": "IDR 515,000",
-    "discounted_price": "IDR 25,750",
-    "discount_percent": 95,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
-    "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-08T03:23:50Z"
-  },
-  {
     "title": "Cyberpunk 2077",
     "platform": "Steam",
     "original_price": "IDR 699,999",
@@ -17,7 +7,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-08-08T03:23:50Z"
+    "scraped_at": "2026-08-09T03:40:34Z"
   },
   {
     "title": "Tom Clancy's Ghost Recon® Wildlands",
@@ -27,16 +17,26 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
     "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-08T03:23:50Z"
+    "scraped_at": "2026-08-09T03:40:34Z"
   },
   {
-    "title": "Tom Clancy's Ghost Recon® Breakpoint",
+    "title": "Ready or Not",
     "platform": "Steam",
-    "original_price": "IDR 619,000",
-    "discounted_price": "IDR 30,950",
+    "original_price": "IDR 255,999",
+    "discounted_price": "IDR 127,999",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
+    "url": "https://store.steampowered.com/app/1144200/",
+    "scraped_at": "2026-08-09T03:40:34Z"
+  },
+  {
+    "title": "Tom Clancy's Ghost Recon® Wildlands",
+    "platform": "Steam",
+    "original_price": "IDR 515,000",
+    "discounted_price": "IDR 25,750",
     "discount_percent": 95,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/3e05f31b9aa9fd29b9709f035e73761a908e9fbe/header.jpg?t=1786026109",
-    "url": "https://store.steampowered.com/app/2231380/",
-    "scraped_at": "2026-08-08T03:23:50Z"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
+    "url": "https://store.steampowered.com/app/460930/",
+    "scraped_at": "2026-08-09T03:40:34Z"
   }
 ]
