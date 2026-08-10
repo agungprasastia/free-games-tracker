@@ -7,7 +7,7 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
     "url": "https://store.steampowered.com/app/1091500/",
-    "scraped_at": "2026-08-09T03:40:34Z"
+    "scraped_at": "2026-08-10T03:52:43Z"
   },
   {
     "title": "Tom Clancy's Ghost Recon® Wildlands",
@@ -17,17 +17,17 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
     "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-09T03:40:34Z"
+    "scraped_at": "2026-08-10T03:52:43Z"
   },
   {
-    "title": "Ready or Not",
+    "title": "PEAK",
     "platform": "Steam",
-    "original_price": "IDR 255,999",
-    "discounted_price": "IDR 127,999",
+    "original_price": "IDR 69,999",
+    "discounted_price": "IDR 34,999",
     "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
-    "url": "https://store.steampowered.com/app/1144200/",
-    "scraped_at": "2026-08-09T03:40:34Z"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+    "url": "https://store.steampowered.com/app/3527290/",
+    "scraped_at": "2026-08-10T03:52:43Z"
   },
   {
     "title": "Tom Clancy's Ghost Recon® Wildlands",
@@ -37,6 +37,6 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
     "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-09T03:40:34Z"
+    "scraped_at": "2026-08-10T03:52:43Z"
   }
 ]
