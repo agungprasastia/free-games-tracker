@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-11 03:42 UTC_
+_Last updated: 2026-08-12 04:05 UTC_
 
 > 📊 **15** games tracked · **IDR 2,547,670** total value saved · Epic Games: 15
 
@@ -17,11 +17,9 @@ _Last updated: 2026-08-11 03:42 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
 | PEAK | **-50%** | ~~IDR 69,999~~ | **IDR 34,999** | [View](https://store.steampowered.com/app/3527290/) |
-| Detroit: Become Human | **-80%** | ~~IDR 399,000~~ | **IDR 79,800** | [View](https://store.steampowered.com/app/1222140/) |
 | Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
-| Persona 5 Royal | **-70%** | ~~IDR 798,000~~ | **IDR 239,400** | [View](https://store.steampowered.com/app/1687950/) |
+| Rust | **-50%** | ~~IDR 329,000~~ | **IDR 164,500** | [View](https://store.steampowered.com/app/252490/) |
 
 ## 📦 Data
 

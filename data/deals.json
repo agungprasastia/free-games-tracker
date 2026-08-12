@@ -1,33 +1,13 @@
 [
   {
-    "title": "Tom Clancy's Ghost Recon® Wildlands",
-    "platform": "Steam",
-    "original_price": "IDR 515,000",
-    "discounted_price": "IDR 25,750",
-    "discount_percent": 95,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
-    "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-11T03:42:21Z"
-  },
-  {
     "title": "PEAK",
     "platform": "Steam",
     "original_price": "IDR 69,999",
     "discounted_price": "IDR 34,999",
     "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
     "url": "https://store.steampowered.com/app/3527290/",
-    "scraped_at": "2026-08-11T03:42:21Z"
-  },
-  {
-    "title": "Detroit: Become Human",
-    "platform": "Steam",
-    "original_price": "IDR 399,000",
-    "discounted_price": "IDR 79,800",
-    "discount_percent": 80,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
-    "url": "https://store.steampowered.com/app/1222140/",
-    "scraped_at": "2026-08-11T03:42:21Z"
+    "scraped_at": "2026-08-12T04:05:52Z"
   },
   {
     "title": "Tom Clancy's Ghost Recon® Wildlands",
@@ -37,16 +17,16 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
     "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-11T03:42:21Z"
+    "scraped_at": "2026-08-12T04:05:52Z"
   },
   {
-    "title": "Persona 5 Royal",
+    "title": "Rust",
     "platform": "Steam",
-    "original_price": "IDR 798,000",
-    "discounted_price": "IDR 239,400",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-    "url": "https://store.steampowered.com/app/1687950/",
-    "scraped_at": "2026-08-11T03:42:21Z"
+    "original_price": "IDR 329,000",
+    "discounted_price": "IDR 164,500",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+    "url": "https://store.steampowered.com/app/252490/",
+    "scraped_at": "2026-08-12T04:05:52Z"
   }
 ]
