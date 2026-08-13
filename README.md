@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-12 04:05 UTC_
+_Last updated: 2026-08-13 04:10 UTC_
 
 > 📊 **15** games tracked · **IDR 2,547,670** total value saved · Epic Games: 15
 
@@ -19,7 +19,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 |------|----------|----------|------------|------|
 | PEAK | **-50%** | ~~IDR 69,999~~ | **IDR 34,999** | [View](https://store.steampowered.com/app/3527290/) |
 | Tom Clancy's Ghost Recon® Wildlands | **-95%** | ~~IDR 515,000~~ | **IDR 25,750** | [View](https://store.steampowered.com/app/460930/) |
-| Rust | **-50%** | ~~IDR 329,000~~ | **IDR 164,500** | [View](https://store.steampowered.com/app/252490/) |
+| KINGDOM HEARTS -HD 1.5+2.5 ReMIX- | **-70%** | ~~IDR 569,000~~ | **IDR 170,700** | [View](https://store.steampowered.com/app/2552430/) |
 
 ## 📦 Data
 
