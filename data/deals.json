@@ -7,17 +7,7 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
     "url": "https://store.steampowered.com/app/3527290/",
-    "scraped_at": "2026-08-14T04:06:59Z"
-  },
-  {
-    "title": "Total War: WARHAMMER III",
-    "platform": "Steam",
-    "original_price": "IDR 648,999",
-    "discounted_price": "IDR 97,349",
-    "discount_percent": 85,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522",
-    "url": "https://store.steampowered.com/app/1142710/",
-    "scraped_at": "2026-08-14T04:06:59Z"
+    "scraped_at": "2026-08-15T02:49:58Z"
   },
   {
     "title": "Tom Clancy's Ghost Recon® Wildlands",
@@ -27,6 +17,16 @@
     "discount_percent": 95,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/70a2312a82d3ad7ff685302441ea5f12395204a4/header_alt_assets_0.jpg?t=1786116240",
     "url": "https://store.steampowered.com/app/460930/",
-    "scraped_at": "2026-08-14T04:06:59Z"
+    "scraped_at": "2026-08-15T02:49:58Z"
+  },
+  {
+    "title": "Total War: WARHAMMER III",
+    "platform": "Steam",
+    "original_price": "IDR 648,999",
+    "discounted_price": "IDR 97,349",
+    "discount_percent": 85,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522",
+    "url": "https://store.steampowered.com/app/1142710/",
+    "scraped_at": "2026-08-15T02:49:58Z"
   }
 ]
