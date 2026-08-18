@@ -7,7 +7,17 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
     "url": "https://store.steampowered.com/app/3527290/",
-    "scraped_at": "2026-08-17T02:57:45Z"
+    "scraped_at": "2026-08-18T02:53:41Z"
+  },
+  {
+    "title": "Kingdom Come: Deliverance II",
+    "platform": "Steam",
+    "original_price": "IDR 641,000",
+    "discounted_price": "IDR 256,400",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+    "url": "https://store.steampowered.com/app/1771300/",
+    "scraped_at": "2026-08-18T02:53:41Z"
   },
   {
     "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
@@ -17,16 +27,6 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg?t=1779418330",
     "url": "https://store.steampowered.com/app/2552430/",
-    "scraped_at": "2026-08-17T02:57:45Z"
-  },
-  {
-    "title": "Cult of the Lamb",
-    "platform": "Steam",
-    "original_price": "IDR 149,999",
-    "discounted_price": "IDR 59,999",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
-    "url": "https://store.steampowered.com/app/1313140/",
-    "scraped_at": "2026-08-17T02:57:45Z"
+    "scraped_at": "2026-08-18T02:53:41Z"
   }
 ]
