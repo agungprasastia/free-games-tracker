@@ -1,15 +1,5 @@
 [
   {
-    "title": "Kingdom Come: Deliverance II",
-    "platform": "Steam",
-    "original_price": "IDR 641,000",
-    "discounted_price": "IDR 256,400",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
-    "url": "https://store.steampowered.com/app/1771300/",
-    "scraped_at": "2026-08-19T02:55:14Z"
-  },
-  {
     "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
     "platform": "Steam",
     "original_price": "IDR 569,000",
@@ -17,16 +7,16 @@
     "discount_percent": 70,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg?t=1779418330",
     "url": "https://store.steampowered.com/app/2552430/",
-    "scraped_at": "2026-08-19T02:55:14Z"
+    "scraped_at": "2026-08-20T02:54:52Z"
   },
   {
-    "title": "Zombie Army 4: Dead War",
+    "title": "Kingdom Come: Deliverance II",
     "platform": "Steam",
-    "original_price": "IDR 375,999",
-    "discounted_price": "IDR 18,799",
-    "discount_percent": 95,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg?t=1786965015",
-    "url": "https://store.steampowered.com/app/694280/",
-    "scraped_at": "2026-08-19T02:55:14Z"
+    "original_price": "IDR 641,000",
+    "discounted_price": "IDR 256,400",
+    "discount_percent": 60,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+    "url": "https://store.steampowered.com/app/1771300/",
+    "scraped_at": "2026-08-20T02:54:52Z"
   }
 ]

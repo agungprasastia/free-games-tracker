@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-19 02:55 UTC_
+_Last updated: 2026-08-20 02:54 UTC_
 
 > 📊 **16** games tracked · **IDR 2,687,670** total value saved · Epic Games: 16
 
@@ -16,9 +16,8 @@ _Last updated: 2026-08-19 02:55 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
 | KINGDOM HEARTS -HD 1.5+2.5 ReMIX- | **-70%** | ~~IDR 569,000~~ | **IDR 170,700** | [View](https://store.steampowered.com/app/2552430/) |
-| Zombie Army 4: Dead War | **-95%** | ~~IDR 375,999~~ | **IDR 18,799** | [View](https://store.steampowered.com/app/694280/) |
+| Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
 
 ## 📦 Data
 
