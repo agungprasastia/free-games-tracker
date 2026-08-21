@@ -2,21 +2,21 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-20 02:54 UTC_
+_Last updated: 2026-08-21 03:00 UTC_
 
-> 📊 **16** games tracked · **IDR 2,687,670** total value saved · Epic Games: 16
+> 📊 **18** games tracked · **IDR 2,874,670** total value saved · Epic Games: 18
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| Caravan SandWitch | Epic Games | IDR 140,000 | Aug 20, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58) |
+| Cardpocalypse Standard Edition | Epic Games | IDR 187,000 | Aug 27, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/cardpocalypse) |
+| Epic Mage Bundle | Epic Games | 0 | Aug 27, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| KINGDOM HEARTS -HD 1.5+2.5 ReMIX- | **-70%** | ~~IDR 569,000~~ | **IDR 170,700** | [View](https://store.steampowered.com/app/2552430/) |
 | Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
 
 ## 📦 Data

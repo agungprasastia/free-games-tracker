@@ -158,5 +158,25 @@
     "start_date": "2026-08-13T15:00:00.000Z",
     "end_date": "2026-08-20T15:00:00.000Z",
     "scraped_at": "2026-08-14T04:06:59Z"
+  },
+  {
+    "title": "Cardpocalypse Standard Edition",
+    "platform": "Epic Games",
+    "original_price": "IDR 187,000",
+    "thumbnail": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5",
+    "url": "https://store.epicgames.com/en-US/p/cardpocalypse",
+    "start_date": "2026-08-20T15:00:00.000Z",
+    "end_date": "2026-08-27T15:00:00.000Z",
+    "scraped_at": "2026-08-21T03:00:45Z"
+  },
+  {
+    "title": "Epic Mage Bundle",
+    "platform": "Epic Games",
+    "original_price": "0",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png",
+    "url": "https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19",
+    "start_date": "2026-08-20T15:00:00.000Z",
+    "end_date": "2026-08-27T15:00:00.000Z",
+    "scraped_at": "2026-08-21T03:00:45Z"
   }
 ]
