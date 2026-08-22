@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-21 03:00 UTC_
+_Last updated: 2026-08-22 02:52 UTC_
 
 > 📊 **18** games tracked · **IDR 2,874,670** total value saved · Epic Games: 18
 
