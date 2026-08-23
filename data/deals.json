@@ -1,5 +1,15 @@
 [
   {
+    "title": "Stray",
+    "platform": "Steam",
+    "original_price": "IDR 239,000",
+    "discounted_price": "IDR 119,500",
+    "discount_percent": 50,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1785424330",
+    "url": "https://store.steampowered.com/app/1332010/",
+    "scraped_at": "2026-08-23T03:00:45Z"
+  },
+  {
     "title": "Kingdom Come: Deliverance II",
     "platform": "Steam",
     "original_price": "IDR 641,000",
@@ -7,6 +17,26 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
     "url": "https://store.steampowered.com/app/1771300/",
-    "scraped_at": "2026-08-22T02:52:29Z"
+    "scraped_at": "2026-08-23T03:00:45Z"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "platform": "Steam",
+    "original_price": "IDR 798,000",
+    "discounted_price": "IDR 239,400",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+    "url": "https://store.steampowered.com/app/1687950/",
+    "scraped_at": "2026-08-23T03:00:45Z"
+  },
+  {
+    "title": "Persona 3 Reload",
+    "platform": "Steam",
+    "original_price": "IDR 579,000",
+    "discounted_price": "IDR 202,650",
+    "discount_percent": 65,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+    "url": "https://store.steampowered.com/app/2161700/",
+    "scraped_at": "2026-08-23T03:00:45Z"
   }
 ]

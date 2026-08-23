@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-22 02:52 UTC_
+_Last updated: 2026-08-23 03:00 UTC_
 
 > 📊 **18** games tracked · **IDR 2,874,670** total value saved · Epic Games: 18
 
@@ -17,7 +17,10 @@ _Last updated: 2026-08-22 02:52 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
+| Stray | **-50%** | ~~IDR 239,000~~ | **IDR 119,500** | [View](https://store.steampowered.com/app/1332010/) |
 | Kingdom Come: Deliverance II | **-60%** | ~~IDR 641,000~~ | **IDR 256,400** | [View](https://store.steampowered.com/app/1771300/) |
+| Persona 5 Royal | **-70%** | ~~IDR 798,000~~ | **IDR 239,400** | [View](https://store.steampowered.com/app/1687950/) |
+| Persona 3 Reload | **-65%** | ~~IDR 579,000~~ | **IDR 202,650** | [View](https://store.steampowered.com/app/2161700/) |
 
 ## 📦 Data
 
