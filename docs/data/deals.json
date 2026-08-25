@@ -1,52 +1,22 @@
 [
   {
-    "title": "Persona 3 Reload",
+    "title": "Grand Theft Auto V Enhanced",
     "platform": "Steam",
-    "original_price": "IDR 579,000",
-    "discounted_price": "IDR 202,650",
-    "discount_percent": 65,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-    "url": "https://store.steampowered.com/app/2161700/",
-    "scraped_at": "2026-08-24T03:01:08Z"
+    "original_price": "IDR 659,000",
+    "discounted_price": "IDR 289,960",
+    "discount_percent": 56,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+    "url": "https://store.steampowered.com/app/3240220/",
+    "scraped_at": "2026-08-25T02:56:40Z"
   },
   {
-    "title": "Persona 5 Royal",
+    "title": "Ryse: Son of Rome",
     "platform": "Steam",
-    "original_price": "IDR 798,000",
-    "discounted_price": "IDR 239,400",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-    "url": "https://store.steampowered.com/app/1687950/",
-    "scraped_at": "2026-08-24T03:01:08Z"
-  },
-  {
-    "title": "Kingdom Come: Deliverance II",
-    "platform": "Steam",
-    "original_price": "IDR 641,000",
-    "discounted_price": "IDR 256,400",
-    "discount_percent": 60,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
-    "url": "https://store.steampowered.com/app/1771300/",
-    "scraped_at": "2026-08-24T03:01:08Z"
-  },
-  {
-    "title": "Stray",
-    "platform": "Steam",
-    "original_price": "IDR 239,000",
-    "discounted_price": "IDR 119,500",
-    "discount_percent": 50,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1785424330",
-    "url": "https://store.steampowered.com/app/1332010/",
-    "scraped_at": "2026-08-24T03:01:08Z"
-  },
-  {
-    "title": "Total War: WARHAMMER III",
-    "platform": "Steam",
-    "original_price": "IDR 648,999",
-    "discounted_price": "IDR 97,349",
-    "discount_percent": 85,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522",
-    "url": "https://store.steampowered.com/app/1142710/",
-    "scraped_at": "2026-08-24T03:01:08Z"
+    "original_price": "IDR 116,000",
+    "discounted_price": "IDR 33,640",
+    "discount_percent": 71,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/c1a20e77b1124cf1e2828e5d506418c97ad4b50c/header.jpg?t=1783415457",
+    "url": "https://store.steampowered.com/app/302510/",
+    "scraped_at": "2026-08-25T02:56:40Z"
   }
 ]
