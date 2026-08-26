@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-25 02:56 UTC_
+_Last updated: 2026-08-26 03:02 UTC_
 
 > 📊 **18** games tracked · **IDR 2,874,670** total value saved · Epic Games: 18
 
@@ -18,7 +18,9 @@ _Last updated: 2026-08-25 02:56 UTC_
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
 | Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
-| Ryse: Son of Rome | **-71%** | ~~IDR 116,000~~ | **IDR 33,640** | [View](https://store.steampowered.com/app/302510/) |
+| Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
+| Forza Horizon 5 | **-60%** | ~~IDR 699,000~~ | **IDR 279,600** | [View](https://store.steampowered.com/app/1551360/) |
+| Dead by Daylight | **-60%** | ~~IDR 219,890~~ | **IDR 87,956** | [View](https://store.steampowered.com/app/381210/) |
 
 ## 📦 Data
 
