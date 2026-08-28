@@ -1,15 +1,5 @@
 [
   {
-    "title": "Red Dead Redemption 2",
-    "platform": "Steam",
-    "original_price": "IDR 879,000",
-    "discounted_price": "IDR 219,750",
-    "discount_percent": 75,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-    "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-08-27T12:21:14Z"
-  },
-  {
     "title": "Grand Theft Auto V Enhanced",
     "platform": "Steam",
     "original_price": "IDR 659,000",
@@ -17,7 +7,17 @@
     "discount_percent": 56,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-08-27T12:21:14Z"
+    "scraped_at": "2026-08-28T13:47:21Z"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "platform": "Steam",
+    "original_price": "IDR 879,000",
+    "discounted_price": "IDR 219,750",
+    "discount_percent": 75,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "url": "https://store.steampowered.com/app/1174180/",
+    "scraped_at": "2026-08-28T13:47:21Z"
   },
   {
     "title": "Forza Horizon 5",
@@ -27,7 +27,17 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1787677939",
     "url": "https://store.steampowered.com/app/1551360/",
-    "scraped_at": "2026-08-27T12:21:14Z"
+    "scraped_at": "2026-08-28T13:47:21Z"
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "platform": "Steam",
+    "original_price": "IDR 799,000",
+    "discounted_price": "IDR 79,900",
+    "discount_percent": 90,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
+    "url": "https://store.steampowered.com/app/990080/",
+    "scraped_at": "2026-08-28T13:47:21Z"
   },
   {
     "title": "Dead by Daylight",
@@ -37,6 +47,6 @@
     "discount_percent": 60,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/70faaaf204a2d3bd46cf4915f542e93fe76f16aa/header_alt_assets_9.jpg?t=1787769494",
     "url": "https://store.steampowered.com/app/381210/",
-    "scraped_at": "2026-08-27T12:21:14Z"
+    "scraped_at": "2026-08-28T13:47:21Z"
   }
 ]

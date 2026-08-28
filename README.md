@@ -2,24 +2,25 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-27 12:21 UTC_
+_Last updated: 2026-08-28 13:47 UTC_
 
-> 📊 **18** games tracked · **IDR 2,874,670** total value saved · Epic Games: 18
+> 📊 **20** games tracked · **IDR 3,246,669** total value saved · Epic Games: 20
 
 ## 🔥 Current free games
 
 | Game | Platform | Normal Price | Available Until | Link |
 |------|----------|-------------|----------------|------|
-| Cardpocalypse Standard Edition | Epic Games | IDR 187,000 | Aug 27, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/cardpocalypse) |
-| Epic Mage Bundle | Epic Games | 0 | Aug 27, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19) |
+| Breathedge | Epic Games | IDR 199,000 | Sep 03, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/breathedge) |
+| Rival Stars Horse Racing : Desktop Edition | Epic Games | IDR 172,999 | Sep 03, 2026 15:00 UTC | [Claim](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de) |
 
 ## 🏷️ Steam deals (>50% off)
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
-| Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
 | Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
+| Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
 | Forza Horizon 5 | **-60%** | ~~IDR 699,000~~ | **IDR 279,600** | [View](https://store.steampowered.com/app/1551360/) |
+| Hogwarts Legacy | **-90%** | ~~IDR 799,000~~ | **IDR 79,900** | [View](https://store.steampowered.com/app/990080/) |
 | Dead by Daylight | **-60%** | ~~IDR 219,890~~ | **IDR 87,956** | [View](https://store.steampowered.com/app/381210/) |
 
 ## 📦 Data

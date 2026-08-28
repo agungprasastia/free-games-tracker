@@ -1,22 +1,22 @@
 [
   {
-    "title": "Cardpocalypse Standard Edition",
+    "title": "Breathedge",
     "platform": "Epic Games",
-    "original_price": "IDR 187,000",
-    "thumbnail": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5",
-    "url": "https://store.epicgames.com/en-US/p/cardpocalypse",
-    "start_date": "2026-08-20T15:00:00.000Z",
-    "end_date": "2026-08-27T15:00:00.000Z",
-    "scraped_at": "2026-08-27T12:21:14Z"
+    "original_price": "IDR 199,000",
+    "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+    "url": "https://store.epicgames.com/en-US/p/breathedge",
+    "start_date": "2026-08-27T15:00:00.000Z",
+    "end_date": "2026-09-03T15:00:00.000Z",
+    "scraped_at": "2026-08-28T13:47:22Z"
   },
   {
-    "title": "Epic Mage Bundle",
+    "title": "Rival Stars Horse Racing : Desktop Edition",
     "platform": "Epic Games",
-    "original_price": "0",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1tnzy.png",
-    "url": "https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19",
-    "start_date": "2026-08-20T15:00:00.000Z",
-    "end_date": "2026-08-27T15:00:00.000Z",
-    "scraped_at": "2026-08-27T12:21:14Z"
+    "original_price": "IDR 172,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg",
+    "url": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
+    "start_date": "2026-08-27T15:00:00.000Z",
+    "end_date": "2026-09-03T15:00:00.000Z",
+    "scraped_at": "2026-08-28T13:47:22Z"
   }
 ]
