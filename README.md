@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-08-31 08:07 UTC_
+_Last updated: 2026-09-01 07:17 UTC_
 
 > 📊 **20** games tracked · **IDR 3,246,669** total value saved · Epic Games: 20
 
@@ -17,11 +17,11 @@ _Last updated: 2026-08-31 08:07 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
+| Sons Of The Forest | **-70%** | ~~IDR 245,999~~ | **IDR 73,799** | [View](https://store.steampowered.com/app/1326470/) |
 | Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
 | Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
-| Forza Horizon 5 | **-60%** | ~~IDR 699,000~~ | **IDR 279,600** | [View](https://store.steampowered.com/app/1551360/) |
-| Hogwarts Legacy | **-90%** | ~~IDR 799,000~~ | **IDR 79,900** | [View](https://store.steampowered.com/app/990080/) |
-| CONTROL Ultimate Edition | **-90%** | ~~IDR 299,999~~ | **IDR 29,999** | [View](https://store.steampowered.com/app/870780/) |
+| Terraria | **-50%** | ~~IDR 90,999~~ | **IDR 45,499** | [View](https://store.steampowered.com/app/105600/) |
+| Subnautica | **-75%** | ~~IDR 350,999~~ | **IDR 87,749** | [View](https://store.steampowered.com/app/264710/) |
 
 ## 📦 Data
 
