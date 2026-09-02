@@ -1,15 +1,5 @@
 [
   {
-    "title": "Sons Of The Forest",
-    "platform": "Steam",
-    "original_price": "IDR 245,999",
-    "discounted_price": "IDR 73,799",
-    "discount_percent": 70,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-    "url": "https://store.steampowered.com/app/1326470/",
-    "scraped_at": "2026-09-01T07:17:02Z"
-  },
-  {
     "title": "Grand Theft Auto V Enhanced",
     "platform": "Steam",
     "original_price": "IDR 659,000",
@@ -17,7 +7,17 @@
     "discount_percent": 56,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
     "url": "https://store.steampowered.com/app/3240220/",
-    "scraped_at": "2026-09-01T07:17:02Z"
+    "scraped_at": "2026-09-02T06:48:52Z"
+  },
+  {
+    "title": "Sons Of The Forest",
+    "platform": "Steam",
+    "original_price": "IDR 245,999",
+    "discounted_price": "IDR 73,799",
+    "discount_percent": 70,
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+    "url": "https://store.steampowered.com/app/1326470/",
+    "scraped_at": "2026-09-02T06:48:52Z"
   },
   {
     "title": "Red Dead Redemption 2",
@@ -27,7 +27,7 @@
     "discount_percent": 75,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
     "url": "https://store.steampowered.com/app/1174180/",
-    "scraped_at": "2026-09-01T07:17:02Z"
+    "scraped_at": "2026-09-02T06:48:52Z"
   },
   {
     "title": "Terraria",
@@ -37,16 +37,6 @@
     "discount_percent": 50,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
     "url": "https://store.steampowered.com/app/105600/",
-    "scraped_at": "2026-09-01T07:17:02Z"
-  },
-  {
-    "title": "Subnautica",
-    "platform": "Steam",
-    "original_price": "IDR 350,999",
-    "discounted_price": "IDR 87,749",
-    "discount_percent": 75,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
-    "url": "https://store.steampowered.com/app/264710/",
-    "scraped_at": "2026-09-01T07:17:02Z"
+    "scraped_at": "2026-09-02T06:48:52Z"
   }
 ]
