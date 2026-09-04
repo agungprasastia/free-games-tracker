@@ -1,22 +1,12 @@
 [
   {
-    "title": "Breathedge",
+    "title": "Alone With You",
     "platform": "Epic Games",
-    "original_price": "IDR 199,000",
-    "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
-    "url": "https://store.epicgames.com/en-US/p/breathedge",
-    "start_date": "2026-08-27T15:00:00.000Z",
-    "end_date": "2026-09-03T15:00:00.000Z",
-    "scraped_at": "2026-09-03T06:51:28Z"
-  },
-  {
-    "title": "Rival Stars Horse Racing : Desktop Edition",
-    "platform": "Epic Games",
-    "original_price": "IDR 172,999",
-    "thumbnail": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg",
-    "url": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
-    "start_date": "2026-08-27T15:00:00.000Z",
-    "end_date": "2026-09-03T15:00:00.000Z",
-    "scraped_at": "2026-09-03T06:51:28Z"
+    "original_price": "IDR 69,999",
+    "thumbnail": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png",
+    "url": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
+    "start_date": "2026-09-03T15:00:00.000Z",
+    "end_date": "2026-09-10T15:00:00.000Z",
+    "scraped_at": "2026-09-04T06:56:35Z"
   }
 ]
