@@ -2,7 +2,7 @@
 
 Automatically tracks free games from **Epic Games** & **Steam** — updated daily via GitHub Actions.
 
-_Last updated: 2026-09-04 06:56 UTC_
+_Last updated: 2026-09-05 06:41 UTC_
 
 > 📊 **21** games tracked · **IDR 3,316,668** total value saved · Epic Games: 21
 
@@ -16,11 +16,10 @@ _Last updated: 2026-09-04 06:56 UTC_
 
 | Game | Discount | Original | Sale Price | Link |
 |------|----------|----------|------------|------|
+| Call of Duty®: Black Ops III | **-75%** | ~~IDR 891,000~~ | **IDR 222,750** | [View](https://store.steampowered.com/app/311210/) |
 | Grand Theft Auto V Enhanced | **-56%** | ~~IDR 659,000~~ | **IDR 289,960** | [View](https://store.steampowered.com/app/3240220/) |
-| Call of Duty®: Black Ops III | **-75%** | ~~IDR 891,000~~ | **IDR 222,750** | [View](https://store.steampowered.com/app/311210/) |
-| Atomic Heart | **-80%** | ~~IDR 549,000~~ | **IDR 109,800** | [View](https://store.steampowered.com/app/668580/) |
 | Warhammer 40,000: Space Marine 2 | **-75%** | ~~IDR 609,000~~ | **IDR 152,250** | [View](https://store.steampowered.com/app/2183900/) |
-| Call of Duty®: Black Ops III | **-75%** | ~~IDR 891,000~~ | **IDR 222,750** | [View](https://store.steampowered.com/app/311210/) |
+| Red Dead Redemption 2 | **-75%** | ~~IDR 879,000~~ | **IDR 219,750** | [View](https://store.steampowered.com/app/1174180/) |
 | Sons Of The Forest | **-70%** | ~~IDR 245,999~~ | **IDR 73,799** | [View](https://store.steampowered.com/app/1326470/) |
 
 ## 📦 Data
